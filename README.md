@@ -7,5 +7,6 @@ Each node then does a box cast to check for a collision, and marks the node as u
 Feel free to use for whatever. No credit required.
 
 Includes demo:
-https://cdn.discordapp.com/attachments/685248776650096657/823933085065412638/unknown.png
-https://cdn.discordapp.com/attachments/685248776650096657/823932826595360798/unknown.png
+
+![](https://cdn.discordapp.com/attachments/685248776650096657/823933085065412638/unknown.png)
+![](https://cdn.discordapp.com/attachments/685248776650096657/823932826595360798/unknown.png)
