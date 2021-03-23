@@ -1,2 +1,2 @@
 # PathFinder
-A simple, universal pathfinding controller for any type of 2D Game for Unity.
+A simple, universal A* pathfinding controller for any type of 2D game for Unity3D.
